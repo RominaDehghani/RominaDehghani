@@ -12,13 +12,8 @@
 ```javascript
 const Romina = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, C, C++, C#],
-  tools: {
-                        react,
-                        node,
-                        git
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on python and DBA"
+  code: [Python, R, C, C++, C#],
+  challenge: "I am focusing on python, Machine Learning and Deep Learning"
 }
 ```
 
